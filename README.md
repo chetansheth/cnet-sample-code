@@ -24,3 +24,31 @@ composer install
 Later we access the PHP artisan to verify if the project works.
 
 Reference : https://bobcares.com/blog/laravel-vendor-folder-missing/
+
+#VUE JS EXAMPLE HELP
+
+# vehicle-guardian-vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+    npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
